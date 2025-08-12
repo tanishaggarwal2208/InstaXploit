@@ -71,11 +71,12 @@ Before using this software, ensure you have:
 ### Portforwarding Options
 ![Main Dashboard](portforwarding.png)
 ---
-*Professional command-line interface with security testing options*
+*Professional command-line interface with portforwarding testing options*
 
-### Network Monitoring
-![Network Monitoring](screenshots/monitoring.png)
-*Real-time network activity monitoring and analysis*
+### Url-Masking
+![UrlMasker](url_masker.png)
+---
+*Link Masks According to you *
 
 ### Security Assessment
 ![Security Assessment](screenshots/assessment.png)
