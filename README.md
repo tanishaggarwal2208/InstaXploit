@@ -78,9 +78,9 @@ Before using this software, ensure you have:
 ---
 *Link Masks According to you *
 
-### Security Assessment
-![Security Assessment](screenshots/assessment.png)
-*Comprehensive security testing results and recommendations*
+### Monitoring
+![Monitoring](monitoring.png)
+*Monitoring the real time data fetched by link*
 
 ### Reporting Interface
 ![Reporting](screenshots/reporting.png)
