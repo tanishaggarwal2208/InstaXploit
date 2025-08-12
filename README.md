@@ -80,10 +80,12 @@ Before using this software, ensure you have:
 
 ### Monitoring
 ![Monitoring](monitoring.png)
+---
 *Monitoring the real time data fetched by link*
 
 ### Reporting Interface
-![Reporting](screenshots/reporting.png)
+![Reporting](reporting.png)
+---
 *Detailed security assessment reports and analytics*
 
 ---
