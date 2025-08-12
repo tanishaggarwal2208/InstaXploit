@@ -199,13 +199,6 @@ The tool collects the following information for educational analysis:
 ---
 
 
-
-
-
-## 📄 License
-
-This project is licensed under the **Educational Use License** - see the [LICENSE](LICENSE) file for details.
-
 ### License Summary
 - ✅ Educational use permitted
 - ✅ Research use permitted
