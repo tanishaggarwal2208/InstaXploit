@@ -69,7 +69,7 @@ Before using this software, ensure you have:
 ## 📸 Screenshots
 
 ### Portforwarding Options
-![Main Dashboard](screenshots/portforwarding.png)
+![Main Dashboard](portforwarding.png)
 *Professional command-line interface with security testing options*
 
 ### Network Monitoring
