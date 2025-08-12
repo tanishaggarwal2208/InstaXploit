@@ -237,6 +237,6 @@ If you discover a security vulnerability, please:
 
 **⚡ Built with ❤️ for the cybersecurity community**
 
-[⬆ Back to Top](#-advanced-security-testing-suite)
+[⬆ Back to Top](#-InstaXploit-Advanced-Security-Testing-Suite)
 
 </div> 
