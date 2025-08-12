@@ -96,9 +96,11 @@ Before using this software, ensure you have:
 - Python 3.13.5 or higher
 - pip package manager
 - Administrative privileges (for network monitoring)
+### Direct Download
 
-
-
+1. Download the latest release from [Releases](https://github.com/samay825/InstaXploit/releases/tag/v1.0.0)
+2. Extract the archive to your desired location
+3. Follow the installation steps given in release
 ---
 
 ## 💻 Usage
