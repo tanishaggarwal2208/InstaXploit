@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Advanced Security Testing Suite](screenshots/hero-banner.png)
+![Advanced Security Testing Suite](InstaXploit.png)
 
 ![Python](https://img.shields.io/badge/Python-3.13.3+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
