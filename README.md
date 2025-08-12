@@ -79,7 +79,7 @@ Before using this software, ensure you have:
 *Link Masks According to you *
 
 ### Monitoring
-![Monitoring](monitoring.png)
+![Monitoring](interface.png)
 ---
 *Monitoring the real time data fetched by link*
 
