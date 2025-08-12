@@ -222,8 +222,7 @@ This project is licensed under the **Educational Use License** - see the [LICENS
 ### Reporting Security Issues
 
 If you discover a security vulnerability, please:
-1. **DO NOT** create a public issue
-2. Email us at security@example.com
+1. **DO NOT** create a public issue msg me on telegram @sincryptzork
 3. Include detailed information about the vulnerability
 4. Allow time for responsible disclosure
 
