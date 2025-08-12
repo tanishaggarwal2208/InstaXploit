@@ -70,6 +70,7 @@ Before using this software, ensure you have:
 
 ### Portforwarding Options
 ![Main Dashboard](portforwarding.png)
+---
 *Professional command-line interface with security testing options*
 
 ### Network Monitoring
