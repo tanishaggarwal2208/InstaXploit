@@ -99,8 +99,9 @@ Before using this software, ensure you have:
 ### Direct Download
 
 1. Download the latest release from [Releases](https://github.com/samay825/InstaXploit/releases/tag/v1.0.0)
-2. Extract the archive to your desired location
-3. Follow the installation steps given in release
+2. or simple way easiest way clone this repo and run this bat setup_instaxploit.bat it does automatically 
+3. Extract the archive to your desired location
+4. Follow the installation steps given in release
 ---
 
 ## 💻 Usage
