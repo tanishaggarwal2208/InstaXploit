@@ -96,6 +96,10 @@ Before using this software, ensure you have:
 - Python 3.13.5 or higher
 - pip package manager
 - Administrative privileges (for network monitoring)
+
+### Download
+
+1. Download this repo in windows and run bat file setup_instaxploit.bat after setup you will find run_instaxploit.bat in folder use always this for launcher 
 ### Direct Download
 
 1. Download the latest release from [Releases](https://github.com/samay825/InstaXploit/releases/tag/v1.0.0)
