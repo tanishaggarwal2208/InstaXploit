@@ -97,9 +97,10 @@ Before using this software, ensure you have:
 - pip package manager
 - Administrative privileges (for network monitoring)
 
-### Download
+### 📥 Download
+[Click here to download the latest ZIP](https://github.com/samay825/InstaXploit/archive/refs/heads/main.zip)
 
-1. Download this repo in windows and run bat file setup_instaxploit.bat after setup you will find run_instaxploit.bat in folder use always this for launcher 
+## Download this repo in windows and run bat file setup_instaxploit.bat after setup you will find run_instaxploit.bat in folder use always this for launcher 
 
 ---
 
