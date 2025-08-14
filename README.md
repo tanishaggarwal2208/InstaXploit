@@ -100,12 +100,7 @@ Before using this software, ensure you have:
 ### Download
 
 1. Download this repo in windows and run bat file setup_instaxploit.bat after setup you will find run_instaxploit.bat in folder use always this for launcher 
-### Direct Download
 
-1. Download the latest release from [Releases](https://github.com/samay825/InstaXploit/releases/tag/v1.0.0)
-2. or simple way easiest way clone this repo and run this bat setup_instaxploit.bat it does automatically 
-3. Extract the archive to your desired location
-4. Follow the installation steps given in release
 ---
 
 ## 💻 Usage
